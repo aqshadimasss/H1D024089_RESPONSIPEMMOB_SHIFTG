@@ -194,3 +194,18 @@ Untuk memastikan pengalaman pengguna yang ramah, exception teknis dipetakan ke b
 ## 6. Atribusi Sumber Data
 - Data anime dan metadata disediakan oleh **[MyAnimeList](https://myanimelist.net/)**.
 - REST API disediakan oleh **[Tenrai API](https://api.tenrai.org/)** dan **[Jikan API](https://jikan.moe/)**.
+
+## 7. DOKUMENTASI
+
+
+https://github.com/user-attachments/assets/085feeb6-fccd-49d7-90ec-f6afeb1e2d04
+
+
+
+https://github.com/user-attachments/assets/77e7f6d7-362c-442c-8ec0-b3c014e6a5bf
+
+<img width="720" height="1640" alt="Screenshot_20261008_000418" src="https://github.com/user-attachments/assets/635e13ac-256f-452c-94d5-7ca992eef0cb" />
+<img width="720" height="1640" alt="Screenshot_20261008_000439" src="https://github.com/user-attachments/assets/39079276-9aec-4d31-8a79-e57c1f8d102b" />
+
+
+
